@@ -25,6 +25,7 @@ This project uses Insomnia to operate and is the back end of an e-commerce websi
 ## Demo
 
 https://youtu.be/yBTWwW1KCeY
+https://youtu.be/SvX-gdik8v4
 
 ## Preview
 
