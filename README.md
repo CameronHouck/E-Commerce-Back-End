@@ -23,9 +23,10 @@ undefined : [View License]()
 This project uses Insomnia to operate and is the back end of an e-commerce website which was created by configuring a working Express.js API that uses Sequelize to interact with a MySQL database. This application allows the user to view, add, update, and delete categories, products, and tags.
 
 ## Demo
-
+part 1
 https://youtu.be/yBTWwW1KCeY
-https://youtu.be/SvX-gdik8v4
+part 2
+https://youtu.be/xTOJlHnUra0
 
 ## Preview
 
